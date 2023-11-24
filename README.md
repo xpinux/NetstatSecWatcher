@@ -18,7 +18,6 @@ NetstatSecWatcher is a Python script that monitors the netstat output, checks th
 ## Usage
 
 1. Clone the repository:
-
    ```bash
    git clone https://github.com/your-username/netstatsecwatcher.git](https://github.com/xpinux/NetstatSecWatcher.git```
   2. Navigate to the project folder
@@ -30,14 +29,14 @@ Modify the regex pattern in the script to extract IP addresses from netstat outp
 Adjust the malicious threshold as required.
 
 # Output Legend
-CRITICAL: Indicates a malicious connection (malicious score above 10%).
-SUSPICIOUS: Indicates a connection with no reputation or low reputation.
-INFO: Indicates a safe connection.
+- CRITICAL: Indicates a malicious connection (malicious score above 10%).
+- SUSPICIOUS: Indicates a connection with no reputation or low reputation.
+- INFO: Indicates a safe connection.
 
-#License
+# License
 This project is licensed under the MIT License.
 
-#Contribution
+# Contribution
 Feel free to contribute by opening issues or submitting pull requests.
 
 Enjoy monitoring your network with NetstatSecWatcher!
