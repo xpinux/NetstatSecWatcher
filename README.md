@@ -20,7 +20,7 @@ NetstatSecWatcher is a Python script that monitors the netstat output, checks th
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/netstatsecwatcher.git```
+   git clone https://github.com/your-username/netstatsecwatcher.git](https://github.com/xpinux/NetstatSecWatcher.git```
   2. Navigate to the project folder
   3. Replace 'your_api_key' with your actual VirusTotal API key in NetstatSecWatcher.py.
   4. run the script `python NetstatSecWatcher.py`
