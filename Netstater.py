@@ -87,5 +87,5 @@ def main(api_key):
 
 if __name__ == "__main__":
     # Replace 'your_api_key' with your actual VirusTotal API key
-    api_key = '3e2064bf5a4c77db9f3921cff64c0ee8e35f253ac2ecbfde7565a521bf00f2f4'
+    api_key = 'your_api_key '
     main(api_key)
