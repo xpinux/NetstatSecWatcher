@@ -39,4 +39,4 @@ This project is licensed under the MIT License.
 # Contribution
 Feel free to contribute by opening issues or submitting pull requests.
 
-Enjoy monitoring your network with NetstatSecWatcher!
+Enjoy monitoring your computers with NetstatSecWatcher!
