@@ -3,7 +3,7 @@
 NetstatSecWatcher is a Python script that monitors the netstat output, checks the reputation of public IP addresses using the VirusTotal API, and provides essential information about network connections.
 
 ## Features
-
+![368179460_319636021009474_1427213308682831194_n](https://github.com/xpinux/NetstatSecWatcher/assets/33750676/edfa622b-4a25-4781-8f7b-6248e46552a8)
 - **IP Reputation Check:** Utilizes the VirusTotal API to assess the reputation of public IP addresses.
 - **Netstat Information:** Displays netstat information for each public IP address, including protocol, PID, process, etc.
 - **Malicious Detection:** Identifies malicious connections based on a configurable threshold. If the malicious score is above 10% of the total scans, it is marked as CRITICAL.
